@@ -1,0 +1,14 @@
+{
+    'x': [1,2,3,4],
+    'y_list': [{
+        'y':[1,2,3,4],
+        'settings': {
+            'label': 'algorithm',
+            'color': 'red',
+            'linestyle': '-'
+        }
+    },    
+    {
+        'y':[1,2,3,4]
+    }]
+}
